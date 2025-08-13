@@ -1,7 +1,0 @@
-torch
-torchvision
-torchaudio
-transformers
-unsloth
-trl==0.14.0
-datasets
